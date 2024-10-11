@@ -5,6 +5,6 @@ I'm Miguel Martínez, from Durango, México. I'm a back-end software developer, 
 ## Skills
 * 💻 C#, ASP.NET, SQL
 
-##Currently learning
+## Currently learning
 * 💾 Non-relational databases
 * 🔁 CI/CD
