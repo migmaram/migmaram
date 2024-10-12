@@ -1,4 +1,4 @@
-## Miguel Martínez
+## Hola 👋
 
 I'm Miguel Martínez, from Durango, México. I'm a back-end software developer, eager to learn about new intresting subjects.
 
