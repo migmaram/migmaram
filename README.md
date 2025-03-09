@@ -9,4 +9,4 @@ I specialize in C#, ASP.NET Core, Blazor and SQL databases, with experience usin
 ### Projects
 
 * [SimpleBloggingAPI](https://github.com/migmaram/SimpleBloggingAPI) - A project demonstrating the use of: Dependency injection, repository and unit of work design patterns.
-* [Cli-task-tracker](https://github.com/migmaram/cli-task-tracker) - A simple console application built with pure C# and .NET core
+* [Task CLI](https://github.com/migmaram/cli-task-tracker) - A simple console application built with pure C# and .NET core
