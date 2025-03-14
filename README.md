@@ -8,5 +8,5 @@ I specialize in C#, ASP.NET Core, Blazor and SQL databases, with experience usin
 
 ### Projects
 
-* [URL shortening service](https://github.com/migmaram/URLShorteningService.git) - A RESTful API project demonstrating the use of: SOLID principles, and design patters as; Dependency injection, Repository and Unit of Work.
+* [URL shortening service](https://github.com/migmaram/URLShorteningService.git) - A RESTful API project demonstrating the use of: SOLID principles, and design patterns as; Dependency injection, Repository and Unit of Work.
 * [Task CLI](https://github.com/migmaram/cli-task-tracker) - A simple console application built with pure C# and .NET core
