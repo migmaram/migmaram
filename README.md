@@ -1,10 +1,13 @@
-## Hi there 👋 I'm Miguel Martínez 
+## Hi, I'm Miguel Martínez 
 
-I'm a software developer from Durango, México, passionate about coding and continuous learning.
+Software developer from Durango, México. Passionate about coding and learning new stuff.
 
 ### About Me
 
-I specialize in C#, ASP.NET Core, Blazor and SQL databases, with experience using JavaScript, HTML and CSS. I'm also familiar with cloud technologies like Azure and containerization with Docker. I'm particularly interested in building scalable and efficient back-end systems. 
+- I've been coding primarily on C# for the last 6 years.
+- I specialize in ASP.NET Core and SQL databases
+- I'm also experienced using JavaScript, HTML and CSS.
+- Currently learning Azure and Docker.
 
 ### Projects
 
