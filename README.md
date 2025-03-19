@@ -5,7 +5,7 @@ Software developer from Durango, México. Passionate about coding and learning n
 ### About Me
 
 - I've been coding primarily on C# for the last 6 years.
-- I specialize in ASP.NET Core and SQL databases
+- I specialize in ASP.NET Core and SQL databases.
 - I'm also experienced using JavaScript, HTML and CSS.
 - Currently learning Azure and Docker.
 
